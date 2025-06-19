@@ -14,7 +14,7 @@ function show_help()
   echo "Usage: ./configure.sh [OPTIONS]"
   echo
   echo "Options :"
-  echo "  --clean                  Delete build folder"
+  echo "  --clean                  Delete build folder and binary"
   echo "  --help                   Show this help"
 }
 
